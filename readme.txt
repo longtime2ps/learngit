@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git gives us new control version tool.
 Git has a good property to control code.
 Git provides us a sharp equipment in coding.
+Git is a new open source version control software.
