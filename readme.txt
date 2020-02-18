@@ -8,3 +8,4 @@ Git provides us a sharp equipment in coding.
 Git is a new open source version control software.
 Git gives us an alternative sward to work.
 Git helps the programmers to allieviate the burden.
+Git shows an new option for the version control.
